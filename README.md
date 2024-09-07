@@ -17,11 +17,24 @@ For developers or those who wish to explore the code, the source code is availab
     Install Dependencies: If you want to run the Python code, install the required dependencies.
     Run the Application:python Secure_Password_Manager.py
 
-Features
+## Features
 
-    Portable: No installation required for the executable version.
-    Secure: Uses advanced encryption techniques to safeguard your passwords.
-    User-Friendly: Simple and intuitive interface designed for easy use.
+- **Password Generation**: Generate strong and secure passwords.
+  - *Tags*: `password-generator`, `secure-passwords`, `password-creation`
+
+- **Encryption**: Protect your passwords with advanced encryption techniques.
+  - *Tags*: `encryption`, `data-encryption`, `password-encryption`
+
+- **Secure Password Storage**: Safely store your passwords in an encrypted database.
+  - *Tags*: `secure-storage`, `password-management`, `encrypted-database`
+
+- **Password Search**: Easily find and retrieve passwords by name.
+  - *Tags*: `password-search`, `password-retrieval`, `password-organizer`
+
+- **Data Backup**: Backup your passwords to ensure data integrity and recovery.
+  - *Tags*: `data-backup`, `backup`, `password-backup`
+
+
 
 Contribution
 
